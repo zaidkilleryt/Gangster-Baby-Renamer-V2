@@ -51,10 +51,10 @@ async def upgradecm(bot,message):
 	Price Rs 206  ind /🌎 2.4$  per Month
 	
 	
-	Pay Using Upi I'd ```7808912076@paytm```
+	Pay Using Upi I'd ```shxx@ybl```
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @mRiderDM"""
+        Payment To Admin @iaszaidyt"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/iaszaidyt")], 
         			[InlineKeyboardButton("Upi",url = "https://t.me/vajaoaiahbahj"),
